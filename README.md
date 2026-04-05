@@ -1,32 +1,37 @@
+# PithyCyborg
+
 **High-signal code. Zero-dependency systems. Careful engineering.**
 
-PithyCyborg is a repository of focused engineering experiments. I build tools that prioritize architectural clarity over hype, with an emphasis on sharp Python implementations, structured AI prompts, and low-level systems work in Java and Rust.
+PithyCyborg is a collection of focused engineering experiments. No hype, no bloat—just sharp implementations across the stack.
 
 ## The Manifesto
 
-- **Minimal abstraction:** Keep logic visible instead of hiding it behind framework layers.
-- **Dependency light:** Prefer the standard library and small, explicit implementations.
-- **High signal:** Every script should teach something useful about systems design.
+* **Logic over Layers:** Minimal abstraction. If the logic isn't visible, it's a liability.
+* **Standard Lib First:** Dependencies are technical debt. We prefer the standard library.
+* **Mechanical Sympathy:** Code written with respect for the hardware it runs on.
 
-## Featured Projects
+## Featured Repositories
 
-| Project | Language | Description |
+| Project | Stack | Core Concept |
 | :--- | :--- | :--- |
-| **CHIP-8 Emulator** | Python | A pure-Python virtual CPU with no third-party dependencies. |
-| **Elite Prompts** | JSON/MD | Structured prompt frameworks for practical LLM workflows. |
-| **Polyglot-Lab** | Rust/Java | Systems comparisons across memory-safe and managed runtimes. |
+| **[elite-rust](https://github.com/pithycyborg/elite-rust)** | Rust | Zero-alloc systems, Lock-free data structures, SIMD. |
+| **[elite-java](https://github.com/pithycyborg/elite-java)** | Java | GraalVM Native Image, Project Loom, Cache-locality. |
+| **[elite-python](https://github.com/pithycyborg/elite-python)** | Python | Zero-dependency CHIP-8, pure-stdlib CLI architecture. |
+| **[elite-prompts](https://github.com/pithycyborg/elite-prompts)** | LLM | Deterministic prompt frameworks for production RAG. |
 
-## Newsletter & Insights
+---
 
-I write a free newsletter on AI and systems engineering without the noise. If you want practical prompts, workflows, and technical deep-dives, join here:
+## Technical Insights
 
-**[PithyCyborg.com](https://PithyCyborg.com)**
+I distill systems engineering and AI workflows into a high-signal newsletter. No fluff, just the implementation details.
 
-## Connect
+👉 **[PithyCyborg.com](https://PithyCyborg.com)**
 
-- **X (Personal):** [@mrcomputersci](https://x.com/mrcomputersci)
-- **X (Brand):** [@pithycyborg](https://x.com/pithycyborg)
+---
 
-## License
+## Connection
 
-MIT. Built for the community.
+* **Systems & AI:** [@pithycyborg](https://x.com/pithycyborg)
+* **Personal:** [@mrcomputersci](https://x.com/mrcomputersci)
+
+`MIT License`
