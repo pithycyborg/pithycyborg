@@ -1,16 +1,32 @@
-## Hi there 👋
+**High-signal code. Zero-dependency systems. Careful engineering.**
 
-<!--
-**pithycyborg/pithycyborg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PithyCyborg is a repository of focused engineering experiments. I build tools that prioritize architectural clarity over hype, with an emphasis on sharp Python implementations, structured AI prompts, and low-level systems work in Java and Rust.
 
-Here are some ideas to get you started:
+## The Manifesto
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Minimal abstraction:** Keep logic visible instead of hiding it behind framework layers.
+- **Dependency light:** Prefer the standard library and small, explicit implementations.
+- **High signal:** Every script should teach something useful about systems design.
+
+## Featured Projects
+
+| Project | Language | Description |
+| :--- | :--- | :--- |
+| **CHIP-8 Emulator** | Python | A pure-Python virtual CPU with no third-party dependencies. |
+| **Elite Prompts** | JSON/MD | Structured prompt frameworks for practical LLM workflows. |
+| **Polyglot-Lab** | Rust/Java | Systems comparisons across memory-safe and managed runtimes. |
+
+## Newsletter & Insights
+
+I write a free newsletter on AI and systems engineering without the noise. If you want practical prompts, workflows, and technical deep-dives, join here:
+
+**[PithyCyborg.com](https://PithyCyborg.com)**
+
+## Connect
+
+- **X (Personal):** [@mrcomputersci](https://x.com/mrcomputersci)
+- **X (Brand):** [@pithycyborg](https://x.com/pithycyborg)
+
+## License
+
+MIT. Built for the community.
