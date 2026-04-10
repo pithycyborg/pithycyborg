@@ -14,10 +14,11 @@ PithyCyborg is a collection of focused engineering experiments. No hype, no bloa
 
 | Project | Stack | Core Concept |
 | :--- | :--- | :--- |
+| **[elite-prompts](https://github.com/pithycyborg/elite-prompts)** | LLM | Deterministic prompt frameworks for production RAG. |
+| **[elite-python](https://github.com/pithycyborg/elite-python)** | Python | Zero-dependency CHIP-8, pure-stdlib CLI architecture. |
+| **[elite-python](https://github.com/pithycyborg/elite-javascript)** | JavaScript | No-bundler WASM, SharedArrayBuffer Atomics, 60fps OffscreenCanvas.
 | **[elite-rust](https://github.com/pithycyborg/elite-rust)** | Rust | Zero-alloc systems, Lock-free data structures, SIMD. |
 | **[elite-java](https://github.com/pithycyborg/elite-java)** | Java | GraalVM Native Image, Project Loom, Cache-locality. |
-| **[elite-python](https://github.com/pithycyborg/elite-python)** | Python | Zero-dependency CHIP-8, pure-stdlib CLI architecture. |
-| **[elite-prompts](https://github.com/pithycyborg/elite-prompts)** | LLM | Deterministic prompt frameworks for production RAG. |
 
 ---
 
