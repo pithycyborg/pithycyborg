@@ -1,4 +1,4 @@
-# PithyCyborg
+# Pithy Cyborg
 
 **High-signal code. Zero-dependency systems. Careful engineering.**
 
