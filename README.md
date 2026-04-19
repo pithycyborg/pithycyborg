@@ -2,7 +2,7 @@
 
 **High-signal code. Zero-dependency systems. Careful engineering.**
 
-PithyCyborg is a collection of focused engineering experiments. No hype, no bloat. Just sharp implementations across the stack.
+Pithy Cyborg is a collection of focused engineering experiments. No hype, no bloat. Just sharp implementations across the stack.
 
 ## The Manifesto
 
